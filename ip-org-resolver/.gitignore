@@ -1,0 +1,13 @@
+.gradle
+build
+build.gradle
+out
+.idea
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.env*
+.freshcloud
+*.swp
+.sqlite
