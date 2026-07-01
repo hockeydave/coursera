@@ -1,0 +1,10 @@
+** LL: Test #1: Adding new word (tEst) to the LL dictionary...addWord returned true.
+** LL: Test #2: Adding a second (second) word...Dictionary size is 2.
+** LL: Test #3: Looking up word (tEst) from first test...isWord returned true.
+** BST:  Test #4: Adding a new word (tEst) to the BST dictionary...addWord returned true.
+** BST:  Test #5: Adding second (second) word to BST dictionary...Dictionary size is 2.
+** BST:  Test #6: Retrieving the word (tEst) from the first test...isWord returned false.
+** Test #7: Adding lots (4 - seconds, seconded, secondhand, selma) of words and retrieving some...BST: isWord(seconded) returned true; isWord(selma) returned true.
+** Test #8: Testing non-word in DictLL...LL: isWord(soup) returned false.
+** Test #9: Testing non-word in DictBST...BST:  isWord(soup) returned false.
+Tests complete. Make sure everything looks right.

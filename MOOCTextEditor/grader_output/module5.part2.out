@@ -1,0 +1,5 @@
+** Test 1: Request 4 suggestions for  dag (2) 2 suggestions returned.
+** Test 2: Checking suggestion correctness... dag Suggestions for 'dag': dog, dogs, 
+** Test 3: Request 3 suggestions for 'fare'...  fare (3) 3 suggestions returned for 'fare'.
+** Test 4: Checking suggestion correctness... Suggestions: fire, fired, fir, 
+Tests complete. Make sure everything looks right.

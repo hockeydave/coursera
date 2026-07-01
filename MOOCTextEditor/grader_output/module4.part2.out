@@ -1,0 +1,68 @@
+//TESTING ADDING WORDS (addWord, insert)//
+
+** Test #1: Adding first word to dictionary...
+addWord returned (true): true.
+
+** Test #2: Adding two more words and testing size...
+Size should be 3: 3.
+
+** Test #3: Adding 21 more words to dictionary trie (testing size after insertions)...
+Dict size (3+21) is: 24.
+
+** Test #4: Adding duplicate word...
+Adding duplicate word returned (false): false.
+
+** Test #5: Checking size (24)after try to add duplicate word...
+Dict size is (24): 24.
+
+
+//TESTING FOR WORDS IN/OUT OF DICTIONARY (isWord)//
+
+** Test #6: Checking empty string...
+Empty string in dictionary: false.
+
+** Test #7: Checking for word in dictionary...
+'doggoes' in dictionary (true): true.
+
+** Test #8: Testing word only missing last letter...
+'downhil' in dictionary (false): false.
+
+** Test #9: Testing word with one extra letter...
+'downhille' in dictionary (false): false.
+
+** Test #10: Testing for more words in dictionary...
+'test' in dictionary (true): true. 'testcases' in dictionary (true): true. 'testone' in dictionary: true.
+
+** Test #11: Testing word with capital letters...
+'TeSt' in dictionary (true): true.
+
+
+//TESTING AUTO COMPLETE FUNCTIONALITY (predictCompletions)//
+
+** Test #12: 3 completions requested for dog...
+Autocomplete returned the following: dog, doge, dogg, 
+
+** Test #13: Testing size of list...
+predictCompletions returned (3): 3 elements.
+
+** Test #14: 6 completions requested for (soup), 0 expected...
+predictCompletions found 0 words.
+
+** Test #15: (dogg) 10 completions requested, 6 expected...
+predictCompletions found 6 elements.
+
+** Test #16: Testing for correctness of 6 words...
+Words returned by predictCompletions: dogg, doggo, doggie, doggos, doggies, doggoes, 
+
+** Test #17: (test) 7 completions requested (test for size)...
+predictCompletions returned 7 elements.
+
+** Test #18: Testing if (test) list is sorted from shortest to longest...
+test, tester, tested, testin, teston, testell, testine, Check above output.
+
+** Test #19: Testing if (test) list contains 5 correct shorter words...
+test, tester, tested, testin, teston, 
+Check above output for test, tester, tested, testin, teston.
+
+** Test #20: Testing for remaining (2 of 7 requested) words (test)...
+Random 2 of 'testone', 'testine', 'testell', and 'testing' 2 words were found.

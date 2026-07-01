@@ -1,0 +1,98 @@
+[main] INFO org.eclipse.jetty.util.log - Logging initialized @49ms
+[main] INFO io.collective.start.App - App started.
+[main] INFO org.eclipse.jetty.server.Server - jetty-9.3.z-SNAPSHOT
+[main] INFO org.eclipse.jetty.server.ServerConnector - Started ServerConnector@58c1670b{HTTP/1.1,[http/1.1]}{0.0.0.0:8881}
+[main] INFO org.eclipse.jetty.server.Server - Started @150ms
+[main] INFO io.collective.workflow.WorkScheduler - scheduling worker ready
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-1] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-1] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-2] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-2] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-3] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-3] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-4] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-4] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-5] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-5] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-6] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-6] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-7] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-7] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-8] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-8] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-9] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-9] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-10] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-10] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-1] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-1] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-2] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-2] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-3] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-3] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-4] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-4] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-5] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-5] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-6] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-6] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-7] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-7] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-8] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-8] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-9] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-9] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-10] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-10] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-1] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-1] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-2] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-2] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-3] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-3] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-4] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-4] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-5] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-5] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-6] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-6] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-7] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-7] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-8] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-8] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-9] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-9] INFO io.collective.workflow.WorkScheduler - completed work.
+[pool-1-thread-1] INFO io.collective.workflow.WorkScheduler - found work for ready
+[pool-2-thread-10] INFO io.collective.endpoints.EndpointWorkFinder - marking work complete.
+[pool-2-thread-10] INFO io.collective.workflow.WorkScheduler - completed work.
+[Thread-0] INFO io.collective.start.App - App shutdown.
+[Thread-1] INFO org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@58c1670b{HTTP/1.1,[http/1.1]}{0.0.0.0:8881}

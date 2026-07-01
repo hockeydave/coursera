@@ -1,0 +1,5 @@
+** Test #1: Testing short path from pool to spoon...Your path was: pool, spool, spoon.
+** Test #2: Testing long path from stools to moon...Your path was: stools, tools, fools, fool, pool, spool, spoon, soon, moon.
+** Test #3: Testing impossible path from foal to needless...Your path was: .
+** Test #4: Testing using a nonexistent word...Your path was: .
+Tests complete. Make sure everything looks right.
